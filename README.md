@@ -1,5 +1,5 @@
-#README.md
-##Link
+# README.md
+## Link
 "Bitcoin crosses $50,000" - https://www.economist.com/finance-and-economics/2021/02/20/bitcoin-crosses-50000
 
 ## My Thoughts
